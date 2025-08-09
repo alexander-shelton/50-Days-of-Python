@@ -43,6 +43,19 @@
 
 ## Days 11-20
 
+### Solutions for Days 11-20
+
+- [Day 11](./two/day_11.py)
+- [Day 12](./two/day_12.py)
+- [Day 13](./two/day_13.py)
+- [Day 14](./two/day_14.py)
+- [Day 15](./two/day_15.py)
+- [Day 16](./two/day_16.py)
+- [Day 17](./two/day_17.py)
+- [Day 18](./two/day_18.py)
+- [Day 19](./two/day_19.py)
+- [Day 20](./two/day_20.py)
+
 ### Instructions for Days 11-20
 
 - [Day 11](./two/Day-11.md)
@@ -55,3 +68,16 @@
 - [Day 18](./two/Day-18.md)
 - [Day 19](./two/Day-19.md)
 - [Day 20](./two/Day-20.md)
+
+### Tests for Days 11-20
+
+- [Day 11](./two/tests/test_day_11.py)
+- [Day 12](./two/tests/test_day_12.py)
+- [Day 13](./two/tests/test_day_13.py)
+- [Day 14](./two/tests/test_day_14.py)
+- [Day 15](./two/tests/test_day_15.py)
+- [Day 16](./two/tests/test_day_16.py)
+- [Day 17](./two/tests/test_day_17.py)
+- [Day 18](./two/tests/test_day_18.py)
+- [Day 19](./two/tests/test_day_19.py)
+- [Day 20](./two/tests/test_day_20.py)
