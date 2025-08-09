@@ -27,4 +27,4 @@ The code should __run until the user inputs a valid year__. Your
 function should return the user's age in minutes. For example, if
 someone enters 1930 as their year of birth, your function should
 return:
-__You are 48, 355, 200 minutes old.__
+__You are 48,355,200 minutes old.__
