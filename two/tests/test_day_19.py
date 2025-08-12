@@ -9,7 +9,7 @@ class TestDay19(unittest.TestCase):
     def test_count_words(self):
         self.assertEqual(count_words(self.words), 3)
 
-    # Day 19: Count Elements
+    ## Extra Challenge: Count Elements
     def test_count_elements(self):
         self.assertEqual(count_elements(self.words), 13)
     

@@ -11,7 +11,7 @@ class TestDay13(unittest.TestCase):
             expected = 253
             self.assertEqual(result, expected)
 
-    # Day 13: Python Snakes
+    ## Extra Challenge: Python Snakes
     def test_python_snakes(self):
         pass
 

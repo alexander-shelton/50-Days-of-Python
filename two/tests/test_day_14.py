@@ -11,7 +11,7 @@ class TestDay14(unittest.TestCase):
         expected = [1, 2, 3, 4, 5, 6]
         self.assertEqual(flat_list(nested_list), expected)
 
-    # Day 14: Your Salary
+    ## Extra Challenge: Your Salary
     def test_your_salary(self):
         with patch('builtins.input', side_effect=["John Kelly", 105, 20]):
             result = your_salary()

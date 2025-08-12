@@ -11,7 +11,7 @@ class TestDay16(unittest.TestCase):
         self.assertEqual(sum_list(nested_list), expected)
         
 
-    # Day 16: Reversed List
+    ## Extra Challenge: Reversed List
     def test_reversed_list(self):
         nested_list = [[12, 34, 56, 67], [34, 68, 78]]
         expected = [34, 67, 78]

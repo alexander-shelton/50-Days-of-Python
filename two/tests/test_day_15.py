@@ -10,7 +10,7 @@ class TestDay15(unittest.TestCase):
         self.assertTrue(same_in_reverse("level"))
         self.assertFalse(same_in_reverse("hello"))
 
-    # Day 15: Your Age
+    ## Extra Challenge: Your Age
     def test_your_age(self):
         with patch('builtins.input', side_effect=['tim']):
             result = your_age()

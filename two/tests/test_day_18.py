@@ -11,7 +11,7 @@ class TestDay18(unittest.TestCase):
         expected = 51.0
         self.assertEqual(called_any_number(12, 90), expected)
 
-    # Day 18: Add Reverse
+    ## Extra Challenge: Add Reverse
     def test_add_reverse(self):
         nums1 = [10, 12, 34]
         nums2 = [12, 56, 78]

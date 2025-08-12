@@ -16,7 +16,7 @@ class TestDay17(unittest.TestCase):
             self.assertEqual(name, expected_name)
             self.assertIn(random_num, nums)
         
-    # Day 17: Sort Length
+    ## Extra Challenge: Sort Length
     def test_sort_length(self):
         names  = [ "Peter",  "Jon", "Andrew"] 
         expected = ['Jon', 'Peter', 'Andrew']
