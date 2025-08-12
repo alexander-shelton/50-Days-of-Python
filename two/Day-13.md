@@ -17,3 +17,11 @@ an argument and creates the pyramid shape using the number’s
 range. (Hint: Use the loops and emoji libraries for snake emojis.)
 If you pass 7 as an argument, your code should print the
 following:
+
+🐍
+🐍🐍
+🐍🐍🐍
+🐍🐍🐍🐍
+🐍🐍🐍🐍🐍
+🐍🐍🐍🐍🐍🐍
+🐍🐍🐍🐍🐍🐍🐍
