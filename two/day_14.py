@@ -4,7 +4,17 @@
 
 def flat_list(nested_list: list) -> list:
     return [nested_list[i][j] for i in range(len(nested_list)) for j in range(len(nested_list[i]))]
-
+    #
+    # Visualize the list comprehension:
+    # return [
+    #     nested_list[i][j]
+    #     for i in range(
+    #         len(nested_list)
+    #     ) 
+    #     for j in range(
+    #         len(nested_list[i])
+    #     )
+    # ]
 
 ## Extra Challenge: Teacher’s Salary
 def your_salary() -> str:
