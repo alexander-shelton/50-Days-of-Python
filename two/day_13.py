@@ -22,4 +22,6 @@ import emoji
 
 def python_snakes(num: int):
     for i in range(1, num+1):
-        print(emoji.emojize(":snake:" * i))
+        snakes = emoji.emojize(":snake:" * i)
+        spacing = " " * (num - i)
+        print(f"{spacing}{snakes}")
