@@ -1,4 +1,4 @@
-# Day 24:  Average Calories  
+# Day 24: Average Calories  
 
 Write a function called `average_calories` that calculates the
 average calorie intake of a user. The function should ask the user to

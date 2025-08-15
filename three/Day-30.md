@@ -1,4 +1,4 @@
-# Day 30:  Most Repeated Name  
+# Day 30: Most Repeated Name  
 
 Write a function called `repeated_name` that finds the most
 repeated name in the following list. Your function should return a
@@ -9,7 +9,7 @@ should return: ("Peter", 3).
 name = ["John", "Peter", "John", "Peter", "Jones", "Peter"]
 ```
 
-## Extra Challenge:  Sort by Last Name  
+## Extra Challenge: Sort by Last Name  
 
 You work for a local school in your area. The school has a list of
 names of students saved in a list format. The school has asked you

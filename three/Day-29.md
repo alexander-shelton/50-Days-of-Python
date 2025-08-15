@@ -1,4 +1,4 @@
-# Day 29:  Middle Figure  
+# Day 29: Middle Figure  
 
 Write a function called `middle_figure` that has two
 parameters, **a** and **b**. The **two** parameters are strings. The

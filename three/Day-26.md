@@ -1,4 +1,4 @@
-# Day 26:  Sort Words  
+# Day 26: Sort Words  
 
 Write a function called `sort_words` that takes a string of words
 as an argument, removes the whitespaces, and returns a list of
@@ -7,7 +7,7 @@ commas. All letters should appear once in the list. This means that
 you sort and remove duplicates. For example, **"love life"** should
 return as **\['e, f, i, l, o, v']**.
 
-## Extra Challenge:  Length of Words  
+## Extra Challenge: Length of Words  
 
 ```python
 s = 'Hi my name is Richard'  
