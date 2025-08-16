@@ -8,13 +8,13 @@ class TestDay26(unittest.TestCase):
     def test_sort_words(self):
         words = "love life"
         expected = ['e, f, i, l, o, v']
-        pass
+        self.assertEqual(sort_words(words), expected)
         
     ## Extra Challenge: Length of Words  
     def test_string_length(self):
         s = 'Hi my name is Richard'
         expected = {'Hi': 2, 'my': 2, 'name': 4, 'is': 2, 'Richard': 7}
-        pass
+        self.assertEqual(string_length(s), expected)
 
 if __name__ == '__main__':
     unittest.main()
