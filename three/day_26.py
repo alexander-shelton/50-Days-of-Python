@@ -3,9 +3,9 @@
 # Day 26: Sort Words  
 
 def sort_words(words: str) -> list:
-    pass
+    return [', '.join(sorted(list(set(char for char in words.replace(' ', '')))))]
 
-        
+
 ## Extra Challenge: Length of Words  
 def string_length(words: str) -> dict:
-    pass
+    return dict((word,len(word)) for word in words.split(' '))

@@ -8,14 +8,14 @@ class TestDay27(unittest.TestCase):
     def test_unique_numbers(self):
         nums = [1, 2, 4, 5, 6, 7, 8, 8]
         expected = [1, 2, 4, 5, 6, 7, 8, 8]
-        pass
+        self.assertEqual(unique_numbers(nums), expected)
         
     ## Extra Challenge: Difference of Two Lists
     def test_difference(self):
         a = [1, 2, 4, 5, 6]
         b = [1, 2, 5, 7, 9]
         expected = [4, 6, 7, 9]
-        pass
+        self.assertEqual(difference(a, b), expected)
 
 if __name__ == '__main__':
     unittest.main()
