@@ -1,0 +1,3 @@
+# Day 37: Count the Vowels  
+
+Create a function called `count_the_vowels`. The function takes one argument, a string, and returns the number of vowels in the string. If the data type of the input is not of the string type, the function should return "invalid input." If the argument has no vowels, your function should return **"The string has no vowels."** If a vowel appears in a string more than once, it should be counted as **one**. For example, **"hello"** should return **two**(2) vowels; "saas" should return **one** (1) vowel; and **"sly"** should return: **"The string has no vowels."** Your code should count lowercase and uppercase vowels.
