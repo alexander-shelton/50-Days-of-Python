@@ -8,13 +8,13 @@ class TestDay28(unittest.TestCase):
     def test_index_position(self):
         string = "LovE"
         expected = [1, 2]
-        pass
+        self.assertEqual(index_position(string), expected)
         
     ## Extra Challenge: Largest Number
     def test_largest_number(self):
         nums = [3, 67, 87, 9, 2]
-        expected = "9,877,632"
-        pass
+        expected = "The largest number is: 9,877,632"
+        self.assertEqual(largest_number(nums), expected)
 
 if __name__ == '__main__':
     unittest.main()
