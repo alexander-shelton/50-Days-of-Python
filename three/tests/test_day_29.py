@@ -9,7 +9,7 @@ class TestDay29(unittest.TestCase):
         a = "make love"
         b = "not wars"
         expected = "e"
-        pass
+        self.assertEqual(middle_figure(a, b), expected)
         
 if __name__ == '__main__':
     unittest.main()
