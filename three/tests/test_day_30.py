@@ -6,15 +6,15 @@ class TestDay30(unittest.TestCase):
 
     # Day 30: Most Repeated Name
     def test_repeated_name(self):
-        name = ["John", "Peter", "John", "Peter", "Jones", "Peter"]
+        names = ["John", "Peter", "John", "Peter", "Jones", "Peter"]
         expected = ("Peter", 3)
-        pass
+        self.assertEqual(repeated_name(names), expected)
         
     ## Extra Challenge: Sort by Last Name
     def test_sorted_names(self):
-        names = ["Beyoncé  Knowles ", "Alicia Keys ", "Katie Perry ", "Chris Brown ", "Tom Cruise "]
-        expected = ['Brown Chris', 'Cruise Tom', 'Keys Alicia', 'Knowles Beyonce', 'Perry Katie']
-        pass
+        names = ["Beyoncé Knowles", "Alicia Keys", "Katie Perry", "Chris Brown", "Tom Cruise"]
+        expected = ['Brown Chris', 'Cruise Tom', 'Keys Alicia', 'Knowles Beyoncé', 'Perry Katie']
+        self.assertEqual(sorted_names(names), expected)
 
 if __name__ == '__main__':
     unittest.main()

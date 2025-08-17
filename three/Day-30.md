@@ -18,7 +18,7 @@ alphabetically. The names should be sorted by last name. Here is
 a list of names:  
 
 ```python
-["Beyoncé  Knowles ", "Alicia Keys ", "Katie Perry ", "Chris Brown ", "Tom Cruise "]
+["Beyoncé  Knowles", "Alicia Keys", "Katie Perry", "Chris Brown", "Tom Cruise"]
 ```
 
 Your code should not just sort them alphabetically; it should also
