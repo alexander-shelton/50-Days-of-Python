@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # 
-# Day 32: 
+# Day 32:  Password Validator  
 
 def password_validator():
     while True:
