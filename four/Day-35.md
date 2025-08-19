@@ -1,4 +1,4 @@
-# Day 3 5: Pangram  
+# Day 35: Pangram  
 
 Write a function called `check_pangram` that takes a string and
 checks if it is a pangram. **A pangram is a sentence that contains all the letters of the alphabet**. If it is a pangram, the function should return **True**, otherwise, it should return **False**. The following sentence is a pangram, so it should return **True**:
