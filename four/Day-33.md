@@ -18,9 +18,11 @@ You want to implement code that will search for a number in a range. You have a 
 
 You have a range, and you can either store it in a **set** or a **list**, depending on which one executes faster when you are searching for a number in the range. See below:  
 
+```python
 a = range(10000000)
 x = set(a)  
 y = list(a)  
+```
 
 Let’s say you are looking for the number 9999999 in the range
 above. Search for this number in the **list "y"**  and the **set "x"**. Your
