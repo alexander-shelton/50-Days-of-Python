@@ -2,7 +2,7 @@
 import unittest
 from day_37 import count_the_vowels
 
-class TestDay22(unittest.TestCase):
+class TestDay37(unittest.TestCase):
 
     # Day 37: Count the Vowels
     def test_count_the_vowels1(self):
