@@ -179,3 +179,63 @@ Tests
 
 </details>
 </details>
+
+<details>
+<summary style="font-size: 18px; font-weight: bold;">
+Days 31-40
+</summary>
+
+<details>
+<summary style="font-size: 16px; font-weight: bold;">
+Instructions
+</summary>
+
+- [Day 31](./four/Day-31.md)
+- [Day 32](./four/Day-32.md)
+- [Day 33](./four/Day-33.md)
+- [Day 34](./four/Day-34.md)
+- [Day 35](./four/Day-35.md)
+- [Day 36](./four/Day-36.md)
+- [Day 37](./four/Day-37.md)
+- [Day 38](./four/Day-38.md)
+- [Day 39](./four/Day-39.md)
+- [Day 40](./four/Day-40.md)
+
+</details>
+
+<details>
+<summary style="font-size: 16px; font-weight: bold;">
+Solutions
+</summary>
+
+- [Day 31](./four/day_31.py)
+- [Day 32](./four/day_32.py)
+- [Day 33](./four/day_33.py)
+- [Day 34](./four/day_34.py)
+- [Day 35](./four/day_35.py)
+- [Day 36](./four/day_36.py)
+- [Day 37](./four/day_37.py)
+- [Day 38](./four/day_38.py)
+- [Day 39](./four/day_39.py)
+- [Day 40](./four/day_40.py)
+
+</details>
+
+<details>
+<summary style="font-size: 16px; font-weight: bold;">
+Tests
+</summary>
+
+- [Day 31](./four/tests/test_day_31.py)
+- [Day 32](./four/tests/test_day_32.py)
+- [Day 33](./four/tests/test_day_33.py)
+- [Day 34](./four/tests/test_day_34.py)
+- [Day 35](./four/tests/test_day_35.py)
+- [Day 36](./four/tests/test_day_36.py)
+- [Day 37](./four/tests/test_day_37.py)
+- [Day 38](./four/tests/test_day_38.py)
+- [Day 39](./four/tests/test_day_39.py)
+- [Day 40](./four/tests/test_day_40.py)
+
+</details>
+</details>
