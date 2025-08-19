@@ -11,7 +11,7 @@ class TestDay31(unittest.TestCase):
         expected = [10, 'JavaScript']
         self.assertEqual(longest_word(words), expected)
         
-    ## Extra Challenge: Even Number or Average
+    ## Extra Challenge: Create User
     def test_create_user(self):
         with patch("builtins.input", side_effect=['Peter', 18, 'love', 'Peter', 18, 'love']):
             result = create_user()
