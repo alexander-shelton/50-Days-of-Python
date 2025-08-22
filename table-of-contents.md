@@ -60,6 +60,8 @@ Tests
 </details>
 </details>
 
+---
+
 <details>
 <summary style="font-size: 18px; font-weight: bold;">
 Days 11-20
@@ -119,6 +121,8 @@ Tests
 
 </details>
 </details>
+
+---
 
 <details>
 <summary style="font-size: 18px; font-weight: bold;">
@@ -180,6 +184,8 @@ Tests
 </details>
 </details>
 
+---
+
 <details>
 <summary style="font-size: 18px; font-weight: bold;">
 Days 31-40
@@ -239,3 +245,64 @@ Tests
 
 </details>
 </details>
+
+---
+
+<details>
+<summary style="font-size: 18px; font-weight: bold;">
+Days 41-49
+</summary>
+
+<details>
+<summary style="font-size: 16px; font-weight: bold;">
+Instructions
+</summary>
+
+- [Day 41](./five/Day-41.md)
+- [Day 42](./five/Day-42.md)
+- [Day 43](./five/Day-43.md)
+- [Day 44](./five/Day-44.md)
+- [Day 45](./five/Day-45.md)
+- [Day 46](./five/Day-46.md)
+- [Day 47](./five/Day-47.md)
+- [Day 48](./five/Day-48.md)
+- [Day 49](./five/Day-49.md)
+
+</details>
+
+<details>
+<summary style="font-size: 16px; font-weight: bold;">
+Solutions
+</summary>
+
+- [Day 41](./five/day_41.py)
+- [Day 42](./five/day_42.py)
+- [Day 43](./five/day_43.py)
+- [Day 44](./five/day_44.py)
+- [Day 45](./five/day_45.py)
+- [Day 46](./five/day_46.py)
+- [Day 47](./five/day_47.py)
+- [Day 48](./five/day_48.py)
+- [Day 49](./five/day_49.py)
+
+</details>
+
+<details>
+<summary style="font-size: 16px; font-weight: bold;">
+Tests
+</summary>
+
+- [Day 41](./five/tests/test_day_41.py)
+- [Day 42](./five/tests/test_day_42.py)
+- [Day 43](./five/tests/test_day_43.py)
+- [Day 44](./five/tests/test_day_44.py)
+- [Day 45](./five/tests/test_day_45.py)
+- [Day 46](./five/tests/test_day_46.py)
+- [Day 47](./five/tests/test_day_47.py)
+- [Day 48](./five/tests/test_day_48.py)
+- [Day 49](./five/tests/test_day_49.py)
+
+</details>
+</details>
+
+---
